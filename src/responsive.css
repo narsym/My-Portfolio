@@ -1,0 +1,99 @@
+@media screen and (max-width: 1024px) {
+    h1 {
+      font-size: 7vw;
+    }
+
+    p {
+        font-size: 5vw;
+    }
+
+    h4 {
+        font-size: 5.5vw;
+      }
+      
+      li {
+        font-size: 4vw;
+        list-style: none;
+      }
+      
+      h5 {
+        font-size: 4vw;
+      }
+      
+      a {
+        font-size: 4vw;
+      }
+
+      .space {
+        width: 100%;
+        height: 15vh;
+      }
+
+      .mainDiv h1 {
+        font-size: 7vw;
+      }
+
+      .navbar {
+          width: 100%;
+      }
+
+      .navbar a {
+          font-size: 3.5vw;
+      }
+
+      /* me */
+      .right {
+        width: 80%;
+      }
+
+      /* work */ 
+      .jobs {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+      
+      .work .card {
+        background-color: #fff;
+        color: #0069fc;
+        max-width: 70%;
+      }
+      
+      /* certification */
+
+      .certification {
+        margin-top: 80%;
+      }
+
+      .card {
+          max-width: 80%;
+      }
+
+      /* project */
+
+      .proDiv .card {
+          width: 45%;
+      }
+
+      .hidden {
+        display: block;
+      }
+
+      #name {
+        display: none;
+      }
+  }
+
+  
+
+@media screen and (max-width: 500px) {
+      /* certification */
+
+      .certification {
+        margin-top: 40%;
+      }
+  }
+
+  
+
